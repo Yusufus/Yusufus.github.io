@@ -4,4 +4,6 @@ body {
 
 .box {
   background-color: gray;
+  width: 300px;
+  height: 300px;
 }
